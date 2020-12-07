@@ -1,5 +1,5 @@
 package com.ltw.app.api;
 
-public class APIServices {
+public class Info {
 
 }
